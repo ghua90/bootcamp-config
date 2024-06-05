@@ -46,7 +46,6 @@ dataSetExternalId: src:001:sap:ds
 #    - ${SCOPES}
 #   # Optional: If idP requires providing the audience
 #   audience: ${AUDIENCE}
-
 authentication:
     clientId: ${COGNITE_CLIENT_ID}
     clientSecret: ${COGNITE_CLIENT_SECRET}
